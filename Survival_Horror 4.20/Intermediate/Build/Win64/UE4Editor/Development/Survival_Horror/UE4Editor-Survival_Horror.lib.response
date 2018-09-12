@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Survival_Horror.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\Survival_HorrorEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\Survival_Horror.cpp.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\Survival_HorrorCharacter.cpp.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\Survival_HorrorGameMode.cpp.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\Survival_Horror.init.gen.cpp.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\Survival_HorrorCharacter.gen.cpp.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\Survival_HorrorGameMode.gen.cpp.obj"
+"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\PCLaunch.rc.res"
+/OUT:"D:\GitHub\SurvivalHorror\Survival_Horror 4.20\Intermediate\Build\Win64\UE4Editor\Development\Survival_Horror\UE4Editor-Survival_Horror.lib"

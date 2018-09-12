@@ -1,0 +1,1173 @@
+﻿Log file open, 09/12/18 09:01:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Survival_Horror
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176070
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.059s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.12-07.01.29:290][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.12-07.01.29:290][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.12-07.01.29:300][  0]LogHAL: Display: Platform has ~ 16 GB [17114587136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.12-07.01.29:300][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.12-07.01.29:300][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.12-07.01.29:301][  0]LogInit: Computer: WH93149C
+[2018.09.12-07.01.29:301][  0]LogInit: User: johnwalden
+[2018.09.12-07.01.29:301][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.12-07.01.29:301][  0]LogInit: High frequency timer resolution =3.318392 MHz
+[2018.09.12-07.01.29:301][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.12-07.01.29:301][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.12-07.01.29:301][  0]LogMemory: Process Physical Memory: 98.87 MB used, 98.87 MB peak
+[2018.09.12-07.01.29:301][  0]LogMemory: Process Virtual Memory: 82.68 MB used, 82.68 MB peak
+[2018.09.12-07.01.29:301][  0]LogMemory: Physical Memory: 4606.30 MB used,  11715.45 MB free, 16321.74 MB total
+[2018.09.12-07.01.29:301][  0]LogMemory: Virtual Memory: 4618.66 MB used,  11715.45 MB free, 134217728.00 MB total
+[2018.09.12-07.01.29:315][  0]LogInit: Using OS detected language (en-US).
+[2018.09.12-07.01.29:315][  0]LogInit: Using OS detected locale (en-SE).
+[2018.09.12-07.01.29:315][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.12-07.01.29:673][  0]LogStreaming: Display: Took  0.357s to InitEngineTextLocalization.
+[2018.09.12-07.01.29:673][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.12-07.01.29:705][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.12-07.01.29:705][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.12-07.01.29:865][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.12-07.01.29:865][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.12-07.01.29:914][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.09.12-07.01.29:914][  0]LogD3D11RHI:       2988/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.12-07.01.29:916][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.12-07.01.29:916][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.12-07.01.29:916][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.12-07.01.29:920][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.12-07.01.29:920][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.12-07.01.29:920][  0]LogWindows: EnumDisplayDevices:
+[2018.09.12-07.01.29:920][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.09.12-07.01.29:921][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.09.12-07.01.29:921][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.09.12-07.01.29:921][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.09.12-07.01.29:921][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.12-07.01.29:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.09.12-07.01.29:921][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.09.12-07.01.29:921][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.09.12-07.01.29:921][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.09.12-07.01.29:952][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.12-07.01.29:988][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.12-07.01.30:037][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Intermediate/Shaders/WorkingDirectory/5820/).
+[2018.09.12-07.01.30:037][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/john.walden/AppData/Local/Temp/UnrealShaderWorkingDir/CEF58BF945508D1A0ABDB98D5A660174/'.
+[2018.09.12-07.01.30:257][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.12-07.01.30:269][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.12-07.01.30:281][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.12-07.01.30:293][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.12-07.01.30:306][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.12-07.01.30:319][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.12-07.01.30:331][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.12-07.01.30:343][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.12-07.01.30:348][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-07.01.30:422][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.12-07.01.30:479][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.12-07.01.30:479][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.12-07.01.30:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.12-07.01.30:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.12-07.01.30:512][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.12-07.01.30:524][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.12-07.01.30:535][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.12-07.01.30:547][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.12-07.01.30:556][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.12-07.01.30:556][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.12-07.01.30:601][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.12-07.01.30:601][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.12-07.01.30:601][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.12-07.01.31:257][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.12-07.01.31:309][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/john.walden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.12-07.01.31:309][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/john.walden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.12-07.01.31:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/SurvivalHorror/Survival_Horror 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.12-07.01.31:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.12-07.01.31:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/SurvivalHorror/Survival_Horror 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.12-07.01.31:310][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.12-07.01.31:321][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.12-07.01.31:333][  0]LogDerivedDataCache: Using Local data cache path C:/Users/john.walden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.12-07.01.31:333][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.12-07.01.31:333][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.12-07.01.31:350][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.12-07.01.31:352][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.12-07.01.31:352][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.12-07.01.31:419][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.09.12-07.01.31:712][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.12-07.01.31:757][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.12-07.01.31:760][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.12-07.01.31:760][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.12-07.01.31:760][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.12-07.01.31:760][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.12-07.01.31:853][  0]LogNetVersion: Survival_Horror 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3746093706)
+[2018.09.12-07.01.32:302][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.069874 seconds
+[2018.09.12-07.01.32:309][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.12-07.01.32:309][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.12-07.01.32:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.12-07.01.33:077][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.12-07.01.33:101][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.12-07.01.33:429][  0]LogTexture: Display: Building textures: StaminaBarNormal (BGRA8, 295X49)
+[2018.09.12-07.01.33:429][  0]LogTexture: Display: Building textures: StaminaBarEmpty (BGRA8, 295X49)
+[2018.09.12-07.01.33:429][  0]LogTexture: Display: Building textures: HungerBarEmpty (BGRA8, 295X49)
+[2018.09.12-07.01.33:429][  0]LogTexture: Display: Building textures: HungerBarNormal (BGRA8, 295X49)
+[2018.09.12-07.01.33:429][  0]SourceControl: Source control is disabled
+[2018.09.12-07.01.33:429][  0]SourceControl: Source control is disabled
+[2018.09.12-07.01.33:430][  0]SourceControl: Source control is disabled
+[2018.09.12-07.01.33:431][  0]SourceControl: Source control is disabled
+[2018.09.12-07.01.33:583][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.12-07.01.33:641][  0]LogOcInput: OculusInput pre-init called
+[2018.09.12-07.01.33:694][  0]LogEngine: Initializing Engine...
+[2018.09.12-07.01.33:695][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.12-07.01.33:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.12-07.01.33:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.12-07.01.33:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.12-07.01.33:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.12-07.01.33:891][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.12-07.01.33:902][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.12-07.01.33:917][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-07.01.33:936][  0]LogInit: FAudioDevice initialized.
+[2018.09.12-07.01.33:936][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.12-07.01.34:010][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/john.walden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.12-07.01.34:021][  0]LogInit: Texture streaming: Enabled
+[2018.09.12-07.01.34:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.12-07.01.34:048][  0]LogInit: Transaction tracking system initialized
+[2018.09.12-07.01.34:068][  0]BlueprintLog: New page: Editor Load
+[2018.09.12-07.01.34:174][  0]LocalizationService: Localization service is disabled
+[2018.09.12-07.01.34:418][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.12-07.01.34:418][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.12-07.01.34:418][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.12-07.01.34:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.12-07.01.34:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.12-07.01.34:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.12-07.01.34:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.12-07.01.34:522][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/' took 0.01s
+[2018.09.12-07.01.34:522][  0]SourceControl: Source control is disabled
+[2018.09.12-07.01.34:524][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.09.12-07.01.34:528][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.09.12-07.01.34:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.09.12-07.01.34:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.09.12-07.01.34:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.09.12-07.01.34:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.09.12-07.01.34:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.09.12-07.01.34:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.09.12-07.01.34:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.09.12-07.01.34:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.09.12-07.01.34:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.09.12-07.01.34:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.09.12-07.01.34:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.09.12-07.01.34:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.09.12-07.01.34:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.09.12-07.01.34:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.09.12-07.01.34:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.09.12-07.01.34:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.09.12-07.01.34:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.09.12-07.01.34:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Fire01.uasset"
+[2018.09.12-07.01.34:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.09.12-07.01.34:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.09.12-07.01.34:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.09.12-07.01.34:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Light01.uasset"
+[2018.09.12-07.01.34:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.09.12-07.01.34:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Light02.uasset"
+[2018.09.12-07.01.34:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.09.12-07.01.34:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.09.12-07.01.34:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.09.12-07.01.34:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.09.12-07.01.34:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.09.12-07.01.34:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.09.12-07.01.34:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.09.12-07.01.34:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.09.12-07.01.34:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.09.12-07.01.34:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Steam01.uasset"
+[2018.09.12-07.01.34:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.09.12-07.01.34:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.09.12-07.01.34:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.09.12-07.01.34:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.09.12-07.01.34:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.09.12-07.01.34:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.09.12-07.01.34:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.09.12-07.01.34:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.09.12-07.01.34:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.09.12-07.01.34:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.09.12-07.01.34:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.09.12-07.01.34:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.09.12-07.01.34:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.09.12-07.01.34:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.09.12-07.01.34:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.09.12-07.01.34:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.09.12-07.01.34:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.09.12-07.01.35:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.09.12-07.01.35:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.09.12-07.01.35:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.09.12-07.01.35:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.09.12-07.01.35:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.09.12-07.01.35:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Maps/StarterMap.umap"
+[2018.09.12-07.01.35:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.09.12-07.01.35:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.09.12-07.01.35:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.09.12-07.01.35:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.09.12-07.01.35:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.09.12-07.01.35:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.09.12-07.01.35:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.09.12-07.01.35:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.09.12-07.01.35:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.09.12-07.01.35:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.09.12-07.01.35:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.09.12-07.01.35:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.09.12-07.01.35:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.09.12-07.01.35:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.09.12-07.01.35:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.09.12-07.01.35:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.09.12-07.01.35:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.09.12-07.01.35:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.09.12-07.01.35:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.09.12-07.01.35:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.09.12-07.01.35:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.09.12-07.01.35:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.09.12-07.01.35:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.09.12-07.01.35:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.09.12-07.01.35:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.09.12-07.01.35:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.09.12-07.01.35:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.09.12-07.01.35:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.09.12-07.01.35:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.09.12-07.01.35:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.09.12-07.01.35:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.09.12-07.01.35:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.09.12-07.01.35:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.09.12-07.01.35:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.09.12-07.01.35:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.09.12-07.01.35:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.09.12-07.01.35:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.09.12-07.01.35:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.09.12-07.01.35:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.09.12-07.01.35:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.09.12-07.01.35:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.09.12-07.01.35:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.09.12-07.01.35:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.09.12-07.01.35:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.09.12-07.01.35:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.09.12-07.01.35:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.09.12-07.01.35:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.09.12-07.01.35:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.09.12-07.01.35:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.09.12-07.01.35:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.09.12-07.01.35:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.09.12-07.01.35:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.09.12-07.01.35:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.09.12-07.01.35:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.09.12-07.01.35:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.09.12-07.01.35:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.09.12-07.01.35:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.09.12-07.01.35:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.09.12-07.01.35:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.09.12-07.01.35:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.09.12-07.01.35:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.09.12-07.01.35:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.09.12-07.01.35:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.09.12-07.01.35:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.09.12-07.01.35:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.09.12-07.01.35:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Door.uasset"
+[2018.09.12-07.01.35:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.09.12-07.01.35:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.09.12-07.01.35:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.09.12-07.01.35:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.09.12-07.01.35:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.09.12-07.01.35:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.09.12-07.01.35:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.09.12-07.01.35:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.09.12-07.01.35:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.09.12-07.01.35:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.09.12-07.01.35:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.09.12-07.01.35:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.09.12-07.01.36:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.09.12-07.01.36:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.09.12-07.01.36:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.09.12-07.01.36:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.09.12-07.01.36:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.09.12-07.01.36:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.09.12-07.01.36:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.09.12-07.01.36:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.09.12-07.01.36:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.09.12-07.01.36:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.09.12-07.01.36:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.09.12-07.01.36:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.09.12-07.01.36:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.09.12-07.01.36:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.09.12-07.01.36:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.09.12-07.01.36:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.09.12-07.01.36:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.09.12-07.01.36:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.09.12-07.01.36:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.09.12-07.01.36:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.09.12-07.01.36:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.09.12-07.01.36:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.09.12-07.01.36:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.09.12-07.01.36:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.09.12-07.01.36:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.09.12-07.01.36:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.09.12-07.01.36:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.09.12-07.01.36:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.09.12-07.01.36:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.09.12-07.01.36:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.09.12-07.01.36:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.09.12-07.01.36:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.09.12-07.01.36:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.09.12-07.01.36:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.09.12-07.01.36:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.09.12-07.01.36:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.09.12-07.01.36:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.09.12-07.01.36:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.09.12-07.01.36:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.09.12-07.01.36:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.09.12-07.01.36:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.09.12-07.01.36:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.09.12-07.01.36:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.09.12-07.01.36:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.09.12-07.01.36:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.09.12-07.01.36:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.09.12-07.01.36:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.09.12-07.01.36:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.09.12-07.01.36:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.09.12-07.01.36:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.09.12-07.01.36:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.09.12-07.01.36:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.09.12-07.01.36:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.09.12-07.01.36:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.09.12-07.01.36:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.09.12-07.01.36:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.09.12-07.01.36:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.09.12-07.01.36:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.09.12-07.01.36:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.09.12-07.01.36:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.09.12-07.01.36:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.09.12-07.01.37:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.09.12-07.01.37:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.09.12-07.01.37:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.09.12-07.01.37:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.09.12-07.01.37:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.09.12-07.01.37:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.09.12-07.01.37:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.09.12-07.01.37:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.09.12-07.01.37:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.09.12-07.01.37:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.09.12-07.01.37:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.09.12-07.01.37:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.09.12-07.01.37:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.09.12-07.01.37:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.09.12-07.01.37:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.09.12-07.01.37:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.09.12-07.01.37:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.09.12-07.01.37:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.09.12-07.01.37:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.09.12-07.01.37:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.09.12-07.01.37:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.09.12-07.01.37:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.09.12-07.01.37:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.09.12-07.01.37:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.09.12-07.01.37:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.09.12-07.01.37:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.09.12-07.01.37:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.09.12-07.01.37:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.09.12-07.01.37:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.09.12-07.01.37:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.09.12-07.01.37:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.09.12-07.01.37:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.09.12-07.01.37:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.09.12-07.01.37:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.09.12-07.01.37:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.09.12-07.01.37:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.09.12-07.01.37:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.09.12-07.01.37:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.09.12-07.01.37:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.09.12-07.01.37:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.09.12-07.01.37:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.09.12-07.01.37:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.09.12-07.01.37:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.09.12-07.01.38:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.09.12-07.01.38:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.09.12-07.01.38:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.09.12-07.01.38:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.09.12-07.01.38:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.09.12-07.01.38:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.09.12-07.01.38:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.09.12-07.01.38:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.09.12-07.01.38:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.09.12-07.01.38:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.09.12-07.01.38:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.09.12-07.01.38:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.09.12-07.01.38:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.09.12-07.01.38:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.09.12-07.01.38:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.09.12-07.01.38:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.09.12-07.01.38:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.09.12-07.01.38:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.09.12-07.01.38:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.09.12-07.01.38:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.09.12-07.01.38:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.09.12-07.01.38:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.09.12-07.01.38:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.09.12-07.01.38:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.09.12-07.01.38:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.09.12-07.01.38:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.09.12-07.01.38:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.09.12-07.01.38:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.09.12-07.01.38:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.09.12-07.01.38:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.09.12-07.01.38:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.09.12-07.01.38:632][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.12-07.01.38:689][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.09.12-07.01.38:707][  0]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/Floor_400x40024166DB149A07AFBC644C988B7576EDC.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.09.12-07.01.38:711][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.09.12-07.01.38:714][  0]Cmd: MAP LOAD FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.12-07.01.38:715][  0]LightingResults: New page: Lighting Build
+[2018.09.12-07.01.38:717][  0]MapCheck: New page: Map Check
+[2018.09.12-07.01.38:717][  0]LightingResults: New page: Lighting Build
+[2018.09.12-07.01.38:827][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.09.12-07.01.38:827][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap.
+[2018.09.12-07.01.38:827][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.09.12-07.01.38:840][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.09.12-07.01.38:840][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap.
+[2018.09.12-07.01.38:840][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.09.12-07.01.38:842][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.09.12-07.01.38:842][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.09.12-07.01.38:842][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.09.12-07.01.38:842][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.09.12-07.01.38:852][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.09.12-07.01.38:852][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.09.12-07.01.38:852][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.09.12-07.01.38:852][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.09.12-07.01.39:176][  0]LogTexture: Display: Building textures: MinorPickup_Emmisive (AutoDXT, 512X512)
+[2018.09.12-07.01.39:176][  0]LogTexture: Display: Building textures: MinorPickup_Diffuse (AutoDXT, 512X512)
+[2018.09.12-07.01.39:176][  0]LogTexture: Display: Building textures: FullPickup_Emmisive (AutoDXT, 512X512)
+[2018.09.12-07.01.39:176][  0]LogTexture: Display: Building textures: FullPickup_Diffuse (AutoDXT, 512X512)
+[2018.09.12-07.01.39:176][  0]LogMaterial: Display: Missing cached shader map for material MinorPickup_Diffuse_Mat, compiling. 
+[2018.09.12-07.01.39:238][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.12-07.01.39:238][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.12-07.01.39:238][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-07.01.39:238][  0]LogMaterial: Display: Missing cached shader map for material FullPickup_Diffuse_Mat, compiling. 
+[2018.09.12-07.01.39:306][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.12-07.01.39:330][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.12-07.01.39:352][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.12-07.01.39:416][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.259ms to complete.
+[2018.09.12-07.01.39:416][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.702
+[2018.09.12-07.01.39:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.01.39:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.01.39:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.01.39:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.01.39:543][  0]LogCollectionManager: Loaded 0 collections in 0.001314 seconds
+[2018.09.12-07.01.39:586][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/Collections/' took 0.01s
+[2018.09.12-07.01.39:586][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Developers/johnwalden/Collections/' took 0.01s
+[2018.09.12-07.01.39:586][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Collections/' took 0.01s
+[2018.09.12-07.01.39:586][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.12-07.01.39:596][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2574 classes and 605 folders.
+[2018.09.12-07.01.39:602][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.12-07.01.39:638][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.12-07.01.39:642][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.12-07.01.39:656][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.12-07.01.39:657][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.12-07.01.39:662][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.12-07.01.39:715][  0]LogRenderer: Reallocating scene render targets to support 1144x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.12-07.01.39:753][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-07.01.41:839][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.12-07.01.41:839][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.12-07.01.41:839][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-07.01.41:864][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.12-07.01.41:864][  0]LogLoad: (Engine Initialization) Total time: 13.70 seconds
+[2018.09.12-07.01.41:864][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.12-07.01.41:874][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.12-07.01.41:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.12-07.01.41:961][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.01.42:036][  1]LogAssetRegistry: Asset discovery search completed in 10.6398 seconds
+[2018.09.12-07.01.42:040][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.12-07.01.42:040][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.09.12-07.02.38:480][753]LogSlate: Window 'Message Log' being destroyed
+[2018.09.12-07.02.38:482][753]LogSlate: Window 'Message Log' being destroyed
+[2018.09.12-07.02.39:724][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.02.39:823][913]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-07.02.39:829][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.02.39:830][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-07.02.39:842][913]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2018, 11:02:39 AM)
+[2018.09.12-07.02.39:842][913]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.12-07.02.39:861][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018345s)
+[2018.09.12-07.02.39:861][913]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.12-07.02.39:861][913]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.09.12-07.02.39:862][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019419s)
+[2018.09.12-07.02.39:892][913]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-07.02.39:900][913]LogInit: FAudioDevice initialized.
+[2018.09.12-07.02.39:943][913]LogLoad: Game class is 'Survival_HorrorGameMode'
+[2018.09.12-07.02.39:953][913]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.12-09.02.39
+[2018.09.12-07.02.39:954][913]LogWorld: Bringing up level for play took: 0.006811
+[2018.09.12-07.02.39:982][913]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 10 classes and 0 folders.
+[2018.09.12-07.02.39:989][913]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.152
+[2018.09.12-07.02.39:989][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.02.52:401][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.02.52:401][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.02.52:435][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-07.02.52:435][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.02.52:456][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.02.52:502][367]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.09.12-07.02.54:550][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.03.02:932][588]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-07.03.02:939][588]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FullHungerPickUp1.FullHungerPickUp1
+[2018.09.12-07.03.03:344][588]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.09.12-07.03.04:067][588]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.12-07.03.04:135][589]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.12-07.03.54:306][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FullHungerPickUp1" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/FullHungerPickUp1.uasset" SILENT=true
+[2018.09.12-07.03.54:337][201]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/FullHungerPickUp1A80673D447C7E87248998F98F95E5DAF.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/FullHungerPickUp1.uasset'
+[2018.09.12-07.03.56:108][410]LogSlate: Window 'FullHungerPickUp1' being destroyed
+[2018.09.12-07.03.56:112][410]LogSlate: Window 'FullHungerPickUp1' being destroyed
+[2018.09.12-07.04.06:310][622]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MinorHungerPickUp.MinorHungerPickUp
+[2018.09.12-07.04.30:894][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinorHungerPickUp" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/MinorHungerPickUp.uasset" SILENT=true
+[2018.09.12-07.04.30:925][140]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/MinorHungerPickUp2FA607834A9B3392DB8D3BA9C3423EE6.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/MinorHungerPickUp.uasset'
+[2018.09.12-07.04.51:871][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FullHungerPickUp1.FullHungerPickUp1
+[2018.09.12-07.05.43:902][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.07.38:801][105]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.09.12-07.08.13:900][572]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-07.08.13:915][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.08.13:915][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-07.08.13:916][572]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2018, 11:08:13 AM)
+[2018.09.12-07.08.13:916][572]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.12-07.08.13:928][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012317s)
+[2018.09.12-07.08.13:929][572]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.12-07.08.13:929][572]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.09.12-07.08.13:929][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013490s)
+[2018.09.12-07.08.13:975][572]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-07.08.13:982][572]LogInit: FAudioDevice initialized.
+[2018.09.12-07.08.14:018][572]LogLoad: Game class is 'Survival_HorrorGameMode'
+[2018.09.12-07.08.14:026][572]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.12-09.08.14
+[2018.09.12-07.08.14:027][572]LogWorld: Bringing up level for play took: 0.006961
+[2018.09.12-07.08.14:047][572]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.209
+[2018.09.12-07.08.14:047][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.08.51:969][675]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.51:979][676]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.51:989][677]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.51:998][678]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:007][679]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:017][680]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:026][681]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:035][682]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:044][683]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:053][684]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:063][685]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:072][686]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:081][687]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:091][688]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:100][689]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:110][690]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:119][691]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:128][692]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:137][693]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:147][694]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:156][695]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:166][696]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:175][697]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:184][698]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:194][699]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:203][700]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:213][701]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:223][702]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:232][703]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:241][704]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:250][705]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:260][706]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:270][707]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:279][708]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:288][709]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:298][710]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:307][711]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:316][712]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:326][713]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:335][714]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:345][715]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:354][716]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:363][717]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:373][718]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:382][719]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:392][720]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:401][721]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:411][722]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:420][723]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:430][724]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:439][725]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:449][726]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:458][727]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:467][728]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:477][729]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:486][730]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:496][731]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:505][732]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:515][733]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:524][734]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:534][735]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:543][736]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:552][737]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:562][738]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:572][739]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:581][740]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:591][741]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:600][742]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:609][743]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:619][744]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:629][745]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:639][746]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:649][747]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:659][748]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:669][749]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:678][750]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:687][751]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:698][752]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:708][753]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:718][754]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:728][755]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:738][756]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:748][757]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:758][758]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:768][759]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:777][760]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:787][761]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:797][762]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:807][763]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:818][764]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:827][765]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:837][766]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:847][767]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:857][768]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:866][769]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:877][770]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:886][771]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:896][772]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:906][773]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:916][774]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:926][775]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:936][776]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:946][777]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:956][778]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:966][779]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:976][780]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:986][781]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.52:996][782]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:006][783]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:016][784]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:027][785]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:036][786]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:046][787]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:057][788]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:067][789]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:076][790]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:086][791]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:096][792]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:106][793]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:116][794]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:126][795]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:137][796]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:147][797]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:157][798]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:167][799]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:177][800]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:187][801]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:197][802]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:207][803]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:217][804]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:227][805]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:237][806]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:247][807]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:256][808]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:266][809]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:276][810]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:285][811]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:295][812]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:305][813]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:315][814]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:324][815]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:334][816]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:345][817]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:356][818]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:365][819]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:375][820]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:384][821]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:394][822]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:403][823]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:412][824]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:422][825]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:431][826]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:441][827]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:450][828]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:459][829]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:469][830]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:478][831]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:488][832]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:497][833]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:507][834]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:516][835]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:525][836]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:535][837]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:545][838]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:554][839]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:564][840]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:575][841]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:584][842]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:595][843]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:604][844]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:614][845]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:623][846]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:632][847]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:642][848]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:652][849]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:662][850]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:672][851]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:682][852]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:693][853]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:703][854]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:713][855]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:723][856]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:733][857]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:743][858]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:753][859]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:763][860]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:773][861]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:783][862]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:793][863]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:802][864]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:811][865]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:821][866]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:830][867]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:840][868]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:849][869]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:859][870]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:868][871]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:878][872]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:887][873]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:896][874]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:906][875]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:915][876]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:924][877]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:934][878]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:943][879]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:952][880]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:962][881]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:972][882]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:981][883]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.53:990][884]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:000][885]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:010][886]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:019][887]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:028][888]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:037][889]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:046][890]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:056][891]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:065][892]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:075][893]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:084][894]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:093][895]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:103][896]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:112][897]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:122][898]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:131][899]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:141][900]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:150][901]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:160][902]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:169][903]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:178][904]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:188][905]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:197][906]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:206][907]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:216][908]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:226][909]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:235][910]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:244][911]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:253][912]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:263][913]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:273][914]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:282][915]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:291][916]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:300][917]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:310][918]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:319][919]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:329][920]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:338][921]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:347][922]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:357][923]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:366][924]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:376][925]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:386][926]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:396][927]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:405][928]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:415][929]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:424][930]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:434][931]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:444][932]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:453][933]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:463][934]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:472][935]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:482][936]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:491][937]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:500][938]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:510][939]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:519][940]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:529][941]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:538][942]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:548][943]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:557][944]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:566][945]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:576][946]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:586][947]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:595][948]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:604][949]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:613][950]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:623][951]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:632][952]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:642][953]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:651][954]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:660][955]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:670][956]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:679][957]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:688][958]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:698][959]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:708][960]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:717][961]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:726][962]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:736][963]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:745][964]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:755][965]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:764][966]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:773][967]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:783][968]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:792][969]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:802][970]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:812][971]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Player Died
+[2018.09.12-07.08.54:813][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.08.54:813][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.08.54:856][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-07.08.54:857][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.08.54:887][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.08.54:944][972]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.12-07.08.55:807][ 62]LogEditorViewport: Clicking on Actor (LMB): MinorHungerPickUp_C (Minor_HungerPickUp)
+[2018.09.12-07.08.56:645][134]LogEditorViewport: Clicking on Actor (LMB): MinorHungerPickUp_C (Minor_HungerPickUp)
+[2018.09.12-07.08.56:711][138]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Crate)
+[2018.09.12-07.08.59:406][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.09.00:342][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.09.12-07.09.00:379][450]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/ThirdPersonCharacter2E94A0C64F29337A628D7ABF92A9A03C.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.12-07.09.00:383][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FullHungerPickUp1" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/FullHungerPickUp1.uasset" SILENT=true
+[2018.09.12-07.09.00:406][450]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/FullHungerPickUp14125396B4792F94995BB078B6BCB256F.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/FullHungerPickUp1.uasset'
+[2018.09.12-07.09.00:763][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.09.23:378][363]BlueprintLog: New page: Compile FullHungerPickUp1
+[2018.09.12-07.09.24:388][402]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/ThirdPersonExampleMap6118C905454A6ECDFAB85DBC3C37A040.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.12-07.09.24:407][402]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.278
+[2018.09.12-07.09.24:427][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FullHungerPickUp1" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/FullHungerPickUp1.uasset" SILENT=true
+[2018.09.12-07.09.24:453][402]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/FullHungerPickUp17C8F407E45DAB7555E4F949B7E247131.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/FullHungerPickUp1.uasset'
+[2018.09.12-07.09.25:343][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.09.42:273][836]BlueprintLog: New page: Compile MinorHungerPickUp
+[2018.09.12-07.09.43:155][862]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/ThirdPersonExampleMapB535F17747348630A3852E8C9E5A46AD.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.12-07.09.43:164][862]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.247
+[2018.09.12-07.09.43:184][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinorHungerPickUp" FILE="D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/MinorHungerPickUp.uasset" SILENT=true
+[2018.09.12-07.09.43:221][862]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/MinorHungerPickUp179857284F97E5FE3E8B348151BEA1D1.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/Blueprints/MinorHungerPickUp.uasset'
+[2018.09.12-07.09.44:723][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.09.44:808][981]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-07.09.44:822][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.09.44:822][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-07.09.44:823][981]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2018, 11:09:44 AM)
+[2018.09.12-07.09.44:823][981]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.12-07.09.44:835][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012069s)
+[2018.09.12-07.09.44:836][981]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.12-07.09.44:836][981]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2018.09.12-07.09.44:836][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013207s)
+[2018.09.12-07.09.44:875][981]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-07.09.44:883][981]LogInit: FAudioDevice initialized.
+[2018.09.12-07.09.44:921][981]LogLoad: Game class is 'Survival_HorrorGameMode'
+[2018.09.12-07.09.44:927][981]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.12-09.09.44
+[2018.09.12-07.09.44:928][981]LogWorld: Bringing up level for play took: 0.005496
+[2018.09.12-07.09.44:945][981]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.108
+[2018.09.12-07.09.44:945][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.09:629][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.09:630][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.10.09:672][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-07.10.09:672][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.09:702][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.10.09:780][338]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.12-07.10.11:394][490]LogEditorViewport: Clicking on Actor (LMB): MinorHungerPickUp_C (Minor_HungerPickUp2)
+[2018.09.12-07.10.14:586][750]LogEditorViewport: Clicking on Actor (LMB): FullHungerPickUp1_C (FullHungerPickUp1)
+[2018.09.12-07.10.18:754][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.10.18:863][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-07.10.18:880][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.18:880][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-07.10.18:880][ 97]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2018, 11:10:18 AM)
+[2018.09.12-07.10.18:880][ 97]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.12-07.10.18:891][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010418s)
+[2018.09.12-07.10.18:891][ 97]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.12-07.10.18:892][ 97]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.09.12-07.10.18:892][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011313s)
+[2018.09.12-07.10.18:934][ 97]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-07.10.18:943][ 97]LogInit: FAudioDevice initialized.
+[2018.09.12-07.10.18:973][ 97]LogLoad: Game class is 'Survival_HorrorGameMode'
+[2018.09.12-07.10.18:976][ 97]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.12-09.10.18
+[2018.09.12-07.10.18:976][ 97]LogWorld: Bringing up level for play took: 0.002023
+[2018.09.12-07.10.18:989][ 97]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.848
+[2018.09.12-07.10.18:989][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.26:226][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.26:227][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.10.26:267][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-07.10.26:267][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.12-07.10.26:297][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-07.10.26:373][773]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.12-07.10.30:976][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.10.31:151][204]LogSavePackage: Moving 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Saved/ThirdPersonExampleMap193AFBEB4E72127F8E5FEC9889B675CA.tmp' to 'D:/GitHub/SurvivalHorror/Survival_Horror 4.20/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.12-07.10.49:692][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.10.50:536][ 40]MapCheck: New page: Map Check
+[2018.09.12-07.10.50:547][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.10.50:551][ 40]LightingResults: New page: Lighting Build - Sep 12, 2018, 11:10:50 AM
+[2018.09.12-07.10.50:637][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.12-07.10.50:737][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.12-07.10.50:774][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.12-07.10.51:300][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.12-07.10.51:301][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5820
+[2018.09.12-07.10.56:289][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.12-07.10.56:289][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.12-07.10.56:289][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.12-07.10.56:289][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.12-07.10.56:289][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.12-07.10.56:517][ 40]LogEditorBuildUtils: Build time 0:05
+[2018.09.12-07.10.56:562][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.09.12-07.10.56:568][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.09.12-07.10.56:574][ 41]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.12-07.10.56:613][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2018.09.12-07.10.56:619][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-07.10.56:619][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2018.09.12-07.10.56:634][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-07.11.03:279][359]Job is a success!
+[2018.09.12-07.11.03:307][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport:      BrickData 240x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport:          1: 8.3% covering 6.3% of volume
+[2018.09.12-07.11.03:333][360]LogVolumetricLightmapImport:          2: 89.6% covering 1.0% of volume
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.09.12-07.11.04:225][360]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.09.12-07.11.04:425][360]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.09.12-07.11.04:426][360]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.09.12-07.11.04:471][360]Lightmass on WH93149C: 5.93 sec total, 141 ms importing, 16 ms setup, 892 ms photons, 4.83 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 19.3 sec total, 9.52 sec processing.
+[2018.09.12-07.11.04:517][360]LogStaticLightingSystem: Illumination: 13.9 sec (853 ms encoding lightmaps, 214 ms encoding shadowmaps)
+[2018.09.12-07.11.04:517][360]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.09.12-07.11.04:517][360]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.12-07.11.05:298][360]DumpUnbuiltLightIteractions
+[2018.09.12-07.11.05:298][360]Lights with unbuilt interactions: 0
+[2018.09.12-07.11.05:298][360]
+[2018.09.12-07.11.05:298][360]Primitives with unbuilt interactions: 0
+[2018.09.12-07.11.05:324][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.11.05:443][361]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.12-07.11.05:443][361]MapCheck: New page: ThirdPersonExampleMap - Sep 12, 2018, 11:11:05 AM
+[2018.09.12-07.11.05:511][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.561ms to complete.
+[2018.09.12-07.11.40:570][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-07.13.28:835][964]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.09.12-07.13.40:444][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.12-07.13.43:152][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.13.43:914][142]MapCheck: New page: Map Check
+[2018.09.12-07.13.43:923][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-07.13.43:927][142]LightingResults: New page: Lighting Build - Sep 12, 2018, 11:13:43 AM
+[2018.09.12-07.13.43:935][142]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.12-07.13.43:938][142]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.12-07.13.43:938][142]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.12-07.13.43:939][142]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.12-07.13.43:939][142]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5820
+[2018.09.12-07.13.48:490][142]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.12-07.13.48:490][142]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.12-07.13.48:490][142]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.12-07.13.48:490][142]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.12-07.13.48:490][142]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.12-07.13.48:637][142]LogEditorBuildUtils: Build time 0:04
+[2018.09.12-07.13.52:731][155]Job is a success!
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport:      BrickData 165x5x5 = 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport:          1: 12.1% covering 6.3% of volume
+[2018.09.12-07.13.53:120][156]LogVolumetricLightmapImport:          2: 84.8% covering 0.7% of volume
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.09.12-07.13.53:995][156]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.09.12-07.13.54:104][156]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.09.12-07.13.54:105][156]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.09.12-07.13.54:154][156]Lightmass on WH93149C: 5.00 sec total, 118 ms importing, 16 ms setup, 681 ms photons, 4.15 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 16.6 sec total, 5.37 sec processing.
+[2018.09.12-07.13.54:161][156]LogStaticLightingSystem: Illumination: 9.89 sec (829 ms encoding lightmaps, 103 ms encoding shadowmaps)
+[2018.09.12-07.13.54:161][156]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.09.12-07.13.54:161][156]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.12-07.13.54:491][156]DumpUnbuiltLightIteractions
+[2018.09.12-07.13.54:491][156]Lights with unbuilt interactions: 0
+[2018.09.12-07.13.54:491][156]
+[2018.09.12-07.13.54:491][156]Primitives with unbuilt interactions: 0
+[2018.09.12-07.13.54:639][157]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.12-07.13.54:639][157]MapCheck: New page: ThirdPersonExampleMap - Sep 12, 2018, 11:13:54 AM
+[2018.09.12-07.13.54:715][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.334ms to complete.
